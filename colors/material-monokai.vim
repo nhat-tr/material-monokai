@@ -400,3 +400,9 @@ call s:h("org_shade_stars",             { "fg": s:grey })
 call s:h("org_list_unordered",          { "fg": s:orange })
 call s:h("org_list_ordered",            { "fg": s:orange })
 call s:h("org_timestamp",               { "fg": s:pink })
+
+" dart
+
+call s:h('dartClassDecl',       { "fg": s:pink, })
+call s:h('dartStorageClass',       { "fg": s:pink, })
+call s:h('dartTypedef',       { "fg": s:pink, })
